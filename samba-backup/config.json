@@ -12,7 +12,6 @@
   "hassio_role": "manager",
   "stdin": true,
   "map": ["backup:rw"],
-  "image": "thomasmauerer/samba-backup-{arch}",
   "options": {
     "host": null,
     "share": null,
